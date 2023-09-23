@@ -14,7 +14,7 @@ import java.util.Random;
 public class MainActivity extends AppCompatActivity {
 
 	//  TODO: deklarasikan variabel di sini
-	Integer randomNumber;
+	int randomNumber;
 	private EditText inputNumber;
 	private Button guessButton;
 
