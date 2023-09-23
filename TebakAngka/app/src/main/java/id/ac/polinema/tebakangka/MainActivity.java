@@ -57,6 +57,7 @@ public class MainActivity extends AppCompatActivity {
 
 	public void handleReset(View view) {
 		// TODO: Reset tampilan
+		initRandomNumber();
 		inputNumber.setText("");
 		guessButton.setEnabled(true);
 	}
